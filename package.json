@@ -1,0 +1,23 @@
+{
+  "name": "buildwise-api",
+  "version": "1.0.0",
+  "description": "A weather-driven construction planning application that helps site managers identify weather-related operational risks and optimize scheduling decisions.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RonaldoNyakwama/BuildWise-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RonaldoNyakwama/BuildWise-API/issues"
+  },
+  "homepage": "https://github.com/RonaldoNyakwama/BuildWise-API#readme"
+}
